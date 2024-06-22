@@ -1,6 +1,7 @@
 # people-card
 Created with CodeSandbox
-Link : [https://dhxtxv.csb.app/] 
+Preview Link : [https://dhxtxv.csb.app/] 
+Code Link: [https://codesandbox.io/p/sandbox/upbeat-northcutt-dhxtxv?file=%2Fsrc%2FaddPerson.js]
 
 ## A PEOPLE CARD (CRUD OPERATION) 
 ## _Features_
