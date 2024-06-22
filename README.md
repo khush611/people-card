@@ -17,3 +17,6 @@ Code Link: [https://codesandbox.io/p/sandbox/upbeat-northcutt-dhxtxv?file=%2Fsrc
 5. Add People button to show form to add a new person card.
 
 6. Placed new cards in the UI on click of an add people button.
+
+## _Tech Stack_
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
